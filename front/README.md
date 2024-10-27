@@ -18,7 +18,7 @@ Database: PostgreSQL.
 Installation Instructions
 
 Clone the project:
-git clone https://github.com/username/project.git
+git clone https://github.com/imileskiene/Developer-Card.git
 cd project
 
 Frontend Setup
